@@ -48,6 +48,12 @@ DB_PORT=
 > [!NOTE]
 > Alternatively, the [Jupyter Notebook](A3_NiravPatel_40248940.ipynb) file to run the code and view the query results without having to run it locally.
 
+### Additional Requirements
+
+In regards to the ERD diagrams, the `erd` folder contains both the unnormalized and normalized ERD diagrams.
+
+In regards to the DML scripts, the `dml` folder contains the DML scripts that can be used to populate both unnormalized and normalized databases. 
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
