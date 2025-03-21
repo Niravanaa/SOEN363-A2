@@ -1,3 +1,5 @@
+![ReadmeBanner](https://i.imgur.com/K8GVco9.png)
+
 # SOEN 363: Data Systems for Software Engineers - Assignment 2
 
 ## Overview
