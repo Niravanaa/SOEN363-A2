@@ -39,6 +39,7 @@ DB_USER=
 DB_PASSWORD=
 DB_HOST=
 DB_PORT=
+OMDB_API_KEY=
 ```
 
 5. Run the Python scripts: These scripts (located in the `scripts` folder) faciliate the deletion, creation, and insertion of data into the tables.
@@ -52,7 +53,7 @@ DB_PORT=
 
 In regards to the ERD diagrams, the `erd` folder contains both the unnormalized and normalized ERD diagrams.
 
-In regards to the DML scripts, the `dml` folder contains the DML scripts that can be used to populate both unnormalized and normalized databases. 
+In regards to the DML scripts, the `dml` folder contains the DML scripts that can be used to populate both unnormalized and normalized databases.
 
 ## License
 
